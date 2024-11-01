@@ -36,19 +36,8 @@ evcc is an extensible EV Charge Controller and home energy management system. Fe
 - REST and MQTT [APIs](https://docs.evcc.io/docs/reference/api) for integration with home automation systems
 - Add-ons for [Home Assistant](https://github.com/evcc-io/evcc-hassio-addon) and [OpenHAB](https://www.openhab.org/addons/bindings/evcc) (not maintained by the evcc core team)
 
-## Getting Started
-
-You'll find everything you need in our [documentation](https://docs.evcc.io/).
-
-## Contributing
-
-Technical details on how to contribute, how to add translations and how to build evcc from source can be found [here](CONTRIBUTING.md).
-
-[![Weblate Hosted](https://hosted.weblate.org/widgets/evcc/-/evcc/287x66-grey.png)](https://hosted.weblate.org/engage/evcc/)
-
-## Sponsorship
-
-<img src="docs/logo.png" align="right" width="150" />
+213123123
+fsdfsdfdhgg
 
 evcc believes in open source software. We're committed to provide best in class EV charging experience.
 Maintaining evcc consumes time and effort. With the vast amount of different devices to support, we depend on community and vendor support to keep evcc alive.
